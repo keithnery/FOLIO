@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Oracle of the Books
+  Folio
 </h1>
 
 <p align="center">
