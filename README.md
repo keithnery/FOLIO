@@ -2,6 +2,8 @@
   <img src="assets/logo.png" width="300">
 </p>
 
+<h1 align="center">FOLIO</h1>
+
 ## Overview
 
 Small web app that recommends a fiction book based on your taste
