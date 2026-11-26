@@ -46,7 +46,7 @@ Each option in the quiz is linked to a list of books in `books.json`. Folio pick
 * Book recommendation based on full or partial matches
 * Uses a `books.json` data file to store the books, with a small selection available so far (to be expanded)
 
-### [v0.1.0] - 2026-MM
+### [v0.1.0] - 2026-05
 
 * Initial release
 * Terminal-based version written in Python
