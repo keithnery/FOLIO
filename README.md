@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Folio
+  FOLIO
 </h1>
 
 <p align="center">
